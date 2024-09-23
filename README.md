@@ -1,1 +1,1 @@
-It's a deep learning based image detection project.
+It's a basic application of Neural Networks and Convolutional Neural Networks to classify images.
